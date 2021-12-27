@@ -1,0 +1,7 @@
+{
+  "name": "trapKeyboardFocusBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
